@@ -46,7 +46,7 @@ public class Libro {
 
         paginas.add(new PaginaActividad(
                 2,
-                "Actividad 1: Bioacústica en Anuros",
+                "1: Bioacústica en Anuros",
                 "Comprueba lo aprendido sobre la comunicación de las ranas",
                 "¿Cuál es la función principal del saco vocal en los machos de muchas especies de ranas?",
                 new String[]{
@@ -74,7 +74,7 @@ public class Libro {
 
         paginas.add(new PaginaActividad(
                 4,
-                "Actividad 2: Estrategias Defensivas",
+                "2: Estrategias Defensivas",
                 "Analiza el comportamiento y ecología química",
                 "¿De dónde obtienen originalmente las ranas dardo los alcaloides tóxicos de su piel?",
                 new String[]{
@@ -102,7 +102,7 @@ public class Libro {
 
         paginas.add(new PaginaActividad(
                 6,
-                "Actividad 3: Conducta Reproductiva",
+                "3: Conducta Reproductiva",
                 "Evalúa el cuidado parental en ranas neotropicales",
                 "¿Qué conducta de cuidado parental realizan algunas ranas neotropicales con sus crías?",
                 new String[]{

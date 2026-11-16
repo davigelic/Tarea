@@ -94,7 +94,9 @@ public class GUI_Resultados extends javax.swing.JPanel {
                 return canEdit [columnIndex];
             }
         });
+        tablaResultados.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         tablaResultados.setRowHeight(26);
+        tablaResultados.getTableHeader().setReorderingAllowed(false);
         jScrollPane1.setViewportView(tablaResultados);
 
         btnReiniciar.setBackground(new java.awt.Color(46, 125, 150));
